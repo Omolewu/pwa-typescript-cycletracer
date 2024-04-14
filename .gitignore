@@ -1,0 +1,13 @@
+#Dependence directory
+
+node_modules/
+
+#Paecel cache directory
+.parcel-cache/
+
+# Parcel related files
+dist/
+.cache/
+
+#log files
+package-lock.json
